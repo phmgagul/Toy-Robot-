@@ -1,8 +1,10 @@
 # Problems - Toy Robot
 
-* Modify `robot.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+*We introduce functions into the initial protoype code and fix the bugs.
+
+*By structuring the code using functions.
+
+*We document functions using docstrings.
 
 ### To Run
 
