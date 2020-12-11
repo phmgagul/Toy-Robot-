@@ -1,8 +1,7 @@
 # Problems - Toy Robot
+*We introduce the handling of commands from the user and output of responses.
 
-* Modify `robot.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+*We develop a text based interface for our robot and simulate the behaviour in our program.
 
 ### To Run
 
