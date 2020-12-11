@@ -1,8 +1,7 @@
 # Problem - Toy Robot
-
-* Modify `robot.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+* We modularize the robot's code and allow it to output to a graphical interface.
+* This is so to enhance the code structure.
+* We render graphics in an application window
 
 ### To Run
 
