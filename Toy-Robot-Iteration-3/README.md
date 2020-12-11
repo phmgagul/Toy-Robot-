@@ -1,8 +1,8 @@
 # Problem - Toy Robot
 
-* Modify `robot.py` to solve the problem as stated in the topic content.
-* You can run the program using the instructions in *To Run* below.
-* You can test technical correctness by running the unit tests as in the section *To Test* below.
+* Give the stimulated robot the ability to replay previous commands.
+
+* Our robot needs to keep a history of all commands given to it.
 
 ### To Run
 
