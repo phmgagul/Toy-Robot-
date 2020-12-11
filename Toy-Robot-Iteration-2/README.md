@@ -1,7 +1,7 @@
 # Problems - Toy Robot
-*We introduce the handling of commands from the user and output of responses.
+* We introduce the handling of commands from the user and output of responses.
 
-*We develop a text based interface for our robot and simulate the behaviour in our program.
+* We develop a text based interface for our robot and simulate the behaviour in our program.
 
 ### To Run
 
