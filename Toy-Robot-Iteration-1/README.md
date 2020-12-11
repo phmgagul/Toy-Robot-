@@ -1,10 +1,10 @@
 # Problems - Toy Robot
 
-*We introduce functions into the initial protoype code and fix the bugs.
+* We introduce functions into the initial protoype code and fix the bugs.
 
-*By structuring the code using functions.
+* By structuring the code using functions.
 
-*We document functions using docstrings.
+* We document functions using docstrings.
 
 ### To Run
 
